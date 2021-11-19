@@ -2,7 +2,7 @@
 Create a model to determine if the Titanic passengers have survived with GBDT.
 
 ## Code review
-refer:  https://www.codexa.net/kaggle-titanic-beginner/
+reference:  https://www.codexa.net/kaggle-titanic-beginner/
 
 # Usage
 
